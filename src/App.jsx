@@ -289,6 +289,7 @@ export default function App() {
     </>
   );
 }
+const SEED = [
   {t:"Prisoners",w:true},{t:"The Truman Show",w:true},{t:"Predestination",w:true},
   {t:"Inglourious Basterds",w:true},{t:"Superman 2025",w:true},
   {t:"Once Upon a Time in Hollywood",w:true},{t:"Fight Club",w:true},
